@@ -1,0 +1,3 @@
+C:/Users/Gabriel Gregório/CLionProjects/Atividade3/ATV7/cmake-build-debug/CMakeFiles/ATV7.dir
+C:/Users/Gabriel Gregório/CLionProjects/Atividade3/ATV7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriel Gregório/CLionProjects/Atividade3/ATV7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
